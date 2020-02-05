@@ -1,0 +1,12 @@
+{
+    "name": "Tali Avni",
+    "title": "Software Engineer",
+    "summary": "Highly driven software developer who loves to learn and is driven by the ways tech can be used to address human needs.",
+    "phone": "503-936-7507",
+    "email": "tali@aristo7.com",
+    "website": ["www.github.com/avnit77", "www.linkdin.com/in/tali-avni"],
+    "skills": ["Javascript", "CSS", "HTML", "MongoDB", "PostgreSQL", "React", "React Hooks"],
+    "experience": ["Intellectual Property Paralegal", "Instructor", "Program Officer"],
+    "projects": ["Rose City Resource App", "Treks and Tents", "MultCo Detention Data Api"],
+    "education": ["Alchemy Code Lab", "Sarah Lawrence College"]
+  }
